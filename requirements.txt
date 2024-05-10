@@ -1,0 +1,17 @@
+numpy
+scipy
+os
+argparse
+glob sys
+alive_progress
+
+#visualization packages
+matplotlib
+plotly
+
+#vido processing packages
+cv2
+mediapipe
+
+#deep learning packages
+torch
